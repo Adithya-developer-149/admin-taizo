@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadmin_login_react=self.webpackChunkadmin_login_react||[]).push([[128,113],{3424:(e,n,t)=>{t.d(n,{Z:()=>s});t(2791);var c=t(184);const s=function(){return(0,c.jsx)("div",{children:(0,c.jsxs)("h4",{className:"d-flex align-items-center justify-content-center text-center text-danger",children:["Not found"," "]})})}}}]);
+//# sourceMappingURL=128.eadef153.chunk.js.map
