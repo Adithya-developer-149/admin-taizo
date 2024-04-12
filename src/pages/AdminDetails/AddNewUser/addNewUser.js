@@ -468,7 +468,7 @@ const AddNewUser = () => {
                         sx={{ width: "100%" }}
                         fullWidth
                         onChange={(e) => {
-                          handlePasswordChange(e);
+                          // handlePasswordChange(e);
                         }}
                         error={Boolean(formData.password.err)}
                         helperText={formData.password.err}
